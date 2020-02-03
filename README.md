@@ -14,3 +14,6 @@ Definition of a statistical temperature.
 Addition of randomness, debt, similarities with a thermal machine.
 
 Real data processing: 2017 UK Income distribution modelisation with DY model.
+
+# Jupyter Notebook:
+https://github.com/BaptisteMP/Dragulescu-Yakovenko/blob/master/Dragulescu%20Yakovenko%2C%20Statistical%20Mechanics%20of%20Money%2C%20final.ipynb
